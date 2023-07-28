@@ -14,6 +14,8 @@ O sistema utiliza as seguintes tecnologias:
 
 •	Interface de visualização em ReactJS
 
+## Instalação
+
 Para instalar e visualizar o projeto em sua máquina siga os seguintes passos:
 
 1 – Instale o PostgreSQL em sua máquina e anote a senha do usuário criado na instalação.
